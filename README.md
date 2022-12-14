@@ -27,6 +27,8 @@
 3. Разведывательный анализ
 4. Очистка данных  
 
+## Авторы
+
 [Anna Fursova](https://github.com/AnnaFurs/Project_1_HH_CV)
 
 ## Результаты
